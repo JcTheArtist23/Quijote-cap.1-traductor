@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 167b598016af8794fa73afe703cc596a, type: 3}
+  m_Name: "Espa\xF1ol"
+  m_EditorClassIdentifier: 
+  idiomSelected: "Espa\xF1ol"
+  text1: "En un lugar de la Mancha2, de cuyo nombre no quiero acordarme3, no ha mucho
+    tiempo que viv\xEDa un hidalgo de los de lanza en astillero, adarga antigua,
+    roc\xEDn flaco y galgo corredor4. Una olla de algo m\xE1s vaca que carnero, salpic\xF3n
+    las m\xE1s noches5, duelos y quebrantos los s\xE1bados6, lantejas los viernes7,
+    alg\xFAn palomino de a\xF1adidura los domingos8, consum\xEDan las tres partes
+    de su hacienda9. El resto della conclu\xEDan sayo de velarte10, calzas de velludo
+    para las fiestas, con sus pantuflos de lo mesmo11, y los d\xEDas de entresemana
+    se honraba con su vellor\xED de lo m\xE1s fino12. Ten\xEDa en su casa una ama
+    que pasaba de los cuarenta y una sobrina que no llegaba a los veinte, y un mozo
+    de campo y plaza que as\xED ensillaba el roc\xEDn como tomaba la podadera13.
+    Frisaba la edad de nuestro hidalgo con los cincuenta a\xF1os14. Era de complexi\xF3n
+    recia, seco de carnes, enjuto de rostro15, gran madrugador y amigo de la caza.
+    Quieren decir que ten\xEDa el sobrenombre de \xABQuijada\xBB, o \xABQuesada\xBB,
+    que en esto hay alguna diferencia en los autores que deste caso escriben, aunque
+    por conjeturas veris\xEDmilesII se deja entender que se llamaba \xABQuijana\xBBIII,
+    16. Pero esto importa poco a nuestro cuento: basta que en la narraci\xF3n d\xE9l
+    no se salga un punto de la verdad."
+  text2: "Es, pues, de saber que este sobredicho hidalgo, los ratos que estaba ocioso
+    \u2014que eran los m\xE1s del a\xF1o\u2014, se daba a leer libros de caballer\xEDas,
+    con tanta afici\xF3n y gusto, que olvid\xF3 casi de todo punto el ejercicio de
+    la caza y aun la administraci\xF3n de su hacienda; y lleg\xF3 a tanto su curiosidad
+    y desatino en esto17, que vendi\xF3 muchas hanegas de tierra de sembradura para
+    comprar libros de caballer\xEDas en queIV leer18, y, as\xED, llev\xF3 a su casa
+    todos cuantos pudo haber dellos; y, de todos, ningunos le parec\xEDan tan bienV
+    como los que compuso el famoso Feliciano de Silva19, porque la claridad de su
+    prosa y aquellas entricadas razones suyas le parec\xEDan de perlas, y m\xE1s
+    cuando llegaba a leer aquellos requiebros y cartas de desaf\xEDos20, donde en
+    muchas partes hallaba escrito: \xABLa raz\xF3n de la sinraz\xF3n que a mi raz\xF3n
+    se hace, de tal manera mi raz\xF3n enflaquece, que con raz\xF3n me quejo de la
+    vuestra fermosura\xBB21. Y tambi\xE9n cuando le\xEDa: \xABLos altos cielos que
+    de vuestra divinidad divinamente con las estrellas os fortifican y os hacen merecedora
+    del merecimiento que merece la vuestra grandeza...\xBB"
+  text3: "Con estas razones perd\xEDa el pobre caballero el juicio, y desvel\xE1base
+    por entenderlas y desentra\xF1arles el sentido, que no se lo sacara ni las entendiera
+    el mesmo Arist\xF3teles, si resucitara para solo ello. No estaba muy bien con
+    las heridas que don Belian\xEDs daba y receb\xEDa, porque se imaginaba que, por
+    grandes maestros que le hubiesen curado, no dejar\xEDa de tener el rostro y todo
+    el cuerpo lleno de cicatrices y se\xF1ales23. Pero, con todo, alababa en su autor
+    aquel acabar su libro con la promesa de aquella inacabable aventura, y muchas
+    veces le vino deseo de tomar la pluma y dalle fin al pie de la letra como all\xED
+    se promete24; y sin duda alguna lo hiciera, y aun saliera con ello25, si otros
+    mayores y continuos pensamientos no se lo estorbaran. Tuvo muchas veces competencia
+    con el cura de su lugar \u2014que era hombre docto, graduado en Cig\xFCenza\u201426
+    sobre cu\xE1l hab\xEDa sido mejor caballero: Palmer\xEDn de Ingalaterra o Amad\xEDs
+    de Gaula27; mas maese Nicol\xE1s, barbero del mesmo pueblo28, dec\xEDa que ninguno
+    llegaba al Caballero del Febo, y que si alguno se le pod\xEDa comparar era don
+    Galaor, hermano de Amad\xEDs de Gaula, porque ten\xEDa muy acomodada condici\xF3n
+    para todo, que no era caballero melindroso, ni tan llor\xF3n como su hermano,
+    y que en lo de la valent\xEDa no le iba en zaga"
+  text4: "En resoluci\xF3n, \xE9l se enfrasc\xF3 tanto en su letura, que se le pasaban
+    las noches leyendo de claro en claro30, y los d\xEDas de turbio en turbio; y
+    as\xED, del poco dormir y del mucho leer, se le sec\xF3 el celebro de manera
+    que vino a perder el juicio31. Llen\xF3sele la fantas\xEDa de todo aquello que
+    le\xEDa en los libros, as\xED de encantamentos como de pendencias, batallas,
+    desaf\xEDos, heridas, requiebros, amores, tormentas y disparates imposibles;
+    y asent\xF3sele de tal modo en la imaginaci\xF3n que era verdad toda aquella
+    m\xE1quina de aquellas so\xF1adas invencionesVI que le\xEDa32, que para \xE9l
+    no hab\xEDa otra historia m\xE1s cierta en el mundo33. Dec\xEDa \xE9l que el
+    Cid Ruy D\xEDaz hab\xEDa sido muy buen caballero, pero que no ten\xEDa que ver
+    con el Caballero de la Ardiente Espada, que de solo un rev\xE9s hab\xEDa partido
+    por medio dos fieros y descomunales gigantes34. Mejor estaba con Bernardo del
+    Carpio, porque en Roncesvalles hab\xEDa muerto a Rold\xE1n, el encantado35, vali\xE9ndose
+    de la industria de H\xE9rcules, cuando ahog\xF3 a AnteoVII, el hijo de la Tierra,
+    entre los brazos36. Dec\xEDa mucho bien del gigante Morgante, porque, con ser
+    de aquella generaci\xF3n gigantea, que todos son soberbios y descomedidos, \xE9l
+    solo era afable y bien criado37. Pero, sobre todos, estaba bien con Reinaldos
+    de Montalb\xE1n, y m\xE1s cuando le ve\xEDa salir de su castillo y robar cuantos
+    topaba, y cuando en allende rob\xF3 aquel \xEDdolo de Mahoma que era todo de
+    oro, seg\xFAn dice su historia38. Diera \xE9l, por dar una mano de coces al traidor
+    de Galal\xF3n39, al ama que ten\xEDa, y aun a su sobrina de a\xF1adidura."

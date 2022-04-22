@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 167b598016af8794fa73afe703cc596a, type: 3}
+  m_Name: English
+  m_EditorClassIdentifier: 
+  idiomSelected: "Ingl\xE9s"
+  text1: "In a place in La Mancha2 , whose name I don't want to remember3, not long
+    ago there lived a hidalgo (nobleman) with a lance in a shipyard, an old-fashioned
+    adarga, a skinny roc\xEDn and a greyhound runner4. A pot of something more cow
+    than ram, salpic\xF3n on most nights5, duels and quebrantos on Saturdays6, lantejas
+    on Fridays7, some extra pigeon on Sundays8, consumed the three parts of his estate9.
+    The rest of the time he wore a veiled sackcloth10 , fleece tights for the feasts,
+    with his slippers of the same11 , and on weekdays he was honored with his finest
+    vellor\xED12. He had a mistress in his house who was over forty and a niece who
+    was not yet twenty, and a farm hand who saddled the donkey and took the pruning
+    shears13. Our hidalgo was about fifty years old14. He was of stocky build, dry
+    of flesh, wiry of face15 , a great early riser and a friend of hunting. They
+    want to say that he had the nickname of \"Quijada\", or \"Quesada\", which in
+    this there is some difference in the authors who write about this case, although
+    by plausible conjecturesII it is understood that his name was \"Quijana \"III,
+    16."
+  text2: 'It is known, then, that this aforesaid nobleman, when he was idle -which
+    were most of the year-, read books of chivalry with such fondness and pleasure,
+    that he almost completely forgot the exercise of hunting and even the administration
+    of his estate; and his curiosity and inattention in this17 became so great that
+    he sold many acres of farmland to buy books of chivalry in which to read,18 and,
+    thus, he took home as many of them as he could find; And, of all of them, none
+    seemed to him as good as those composed by the famous Feliciano de Silva19, because
+    the clarity of his prose and those intricate reasons of his seemed to him like
+    pearls, and even more so when he came to read those requiebros and letters of
+    challenges20, where in many parts he found written: "The reason of the unreason
+    that is made to my reason, so weakens my reason, that I rightly complain of your
+    fierceness "21. And also when he read: "The high heavens that of your divinity
+    divinely with the stars fortify you and make you worthy of the merit that your
+    greatness deserves...".'
+  text3: "With these reasons, the poor gentleman lost his wits, and he was trying
+    so hard to understand them and unravel their meaning that Aristotle himself would
+    not be able to understand them, if he had been resurrected for that purpose alone.
+    He was not very well with the wounds that don Belian\xEDs gave and received,
+    because he imagined that, no matter how many great masters had cured him, he
+    would not cease to have his face and his whole body full of scars and marks23.
+    But, in spite of everything, he praised the author for finishing his book with
+    the promise of that unending adventure, and many times he had the desire to take
+    up his pen and finish it to the letter as promised therein24; and no doubt he
+    would do it, and even go out with it25, if other greater and continuous thoughts
+    did not hinder him. He often competed with the priest of his place, who was a
+    learned man, a graduate of Cig\xFCenza,26 as to which had been the better knight:
+    Palmer\xEDn de Ingalaterra or Amad\xEDs de Gaula;27 but Maese Nicol\xE1s, the
+    barber of the same town,28 said that neither was equal to the Knight of Phoebus,
+    and that if anyone could be compared to him it was Don Galaor, brother of Amad\xEDs
+    de Gaula, because he had a very good condition for everything, that he was not
+    a fussy knight, nor as tearful as his brother, and that in bravery he was not
+    far behind him."
+  text4: "In resolution, he became so engrossed in his lethargy that his nights were
+    spent reading from light to light,30 and his days from murky to murky; and so,
+    from too little sleep and too much reading, his brain dried up so that he lost
+    his mind.31 He was filled with fantasy of all that he read in the books, as well
+    as enchantments, quarrels, battles, challenges, wounds, quarrels, loves, storms
+    and impossible nonsense. His imagination was filled with all that he read in
+    the books, of enchantments as well as of quarrels, battles, challenges, wounds,
+    wounds, quarrels, loves, storms and impossible absurdities; and he was so settled
+    in his imagination that the whole machine of those dreamed inventionsVI that
+    he read32 was true, that for him there was no other truer story in the world33.
+    He said that the Cid Ruy D\xEDaz had been a very good knight, but that he had
+    nothing to do with the Knight of the Fiery Sword, who with a single blow had
+    split two fierce and enormous giants in two34. He was better off with Bernardo
+    del Carpio, because at Roncesvalles he had killed Roland, the enchanted35, using
+    the industry of Hercules, when he drowned Antaeus VII, the son of the Earth,
+    in his arms36. He said much good of the giant Morgante, because, although he
+    was of that gigantic generation, who are all proud and unmannerly, he alone was
+    affable and well-bred37. But, above all, he was good with Reinaldos de Montalb\xE1n,
+    and even more so when he saw him leave his castle and steal as many as he could
+    find, and when he stole that idol of Mohammed that was all of gold, as his story
+    says38. He would have given his mistress, and even his niece, to give a hand
+    of kicks to the traitor of Galalon39.  "
